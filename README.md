@@ -1,6 +1,6 @@
 - 👋 Oi! Eu sou o Marcus 
-- 🔭 Eu estou atualmente trabalhando em um sistema de compras em C#
-- 🌱 Estou aprendendo C#
+- 🔭 Eu estou atualmente trabalhando em um sistema de delivery para pizzarias
+- 🌱 Estou aprendendo PHP
 
 <div>
   <a href="https://github.com/VieitesMarcus">
