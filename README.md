@@ -1,5 +1,5 @@
 - 👋 Oi! Eu sou o Marcus 
-- 🔭 Eu estou atualmente trabalhando em um sistema de delivery para pizzarias
+- 🔭 Eu estou atualmente trabalhando em sistema de Banco, mas apenas para portifolio
 - 🌱 Estou aprendendo PHP
 
 <div>
